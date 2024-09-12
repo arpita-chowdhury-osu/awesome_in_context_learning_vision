@@ -5,7 +5,9 @@ This is weekly refreshed incurated list of papers on IN Context Learning on comp
 | -------- | ------- | ------|
 |[Visual In-Context Learning for Large Vision-Language Models](https://arxiv.org/abs/2402.11574)<br>*Yucheng Zhou, Xiang Li, Qianning Wang, [Jianbing Shen](https://scholar.google.com/citations?hl=en&user=_Q3NTToAAAAJ)*|ACL||
 |[Learning Vision from Models Rivals Learning Vision from Data](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Learning_Vision_from_Models_Rivals_Learning_Vision_from_Data_CVPR_2024_paper.pdf)<br>*Yonglong Tian, Lijie Fan, Kaifeng Chen, Dina Katabi, Dilip Krishnan, [Phillip Isola](https://scholar.google.com/citations?hl=en&user=ROILf3EAAAAJ&view_op=list_works&sortby=pubdate)*|CVPR 2024||
-|     |     ||
+|[Towards In-context Scene Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c94a632545000531f0b47000e9caa5b6-Abstract-Conference.html)<br>*Ivana Balazevic, David Steiner, Nikhil Parthasarathy, Relja Arandjelović, [Olivier Henaff](https://scholar.google.com/citations?hl=en&user=Sx75CVsAAAAJ)*|NeurIPS 2023||
+|[Generative Multimodal Models are In-Context Learners](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Generative_Multimodal_Models_are_In-Context_Learners_CVPR_2024_paper.pdf)<br>*Quan Sun, Yufeng Cui, Xiaosong Zhang, Fan Zhang, Qiying Yu, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, [Xinlong Wang](https://scholar.google.com/citations?hl=en&user=DPz0DjYAAAAJ&view_op=list_works&sortby=pubdate)*     |  CVPR 2024   ||
+||||
 # Year 2023
 | Paper Name    | Published where | Tag |
 | -------- | ------- | ------|
