@@ -4,6 +4,7 @@ This is weekly refreshed incurated list of papers on IN Context Learning on comp
 | Paper Name    | Published where | Tag |
 | -------- | ------- | ------|
 |[Visual In-Context Learning for Large Vision-Language Models](https://arxiv.org/abs/2402.11574)<br>*Yucheng Zhou, Xiang Li, Qianning Wang, [Jianbing Shen](https://scholar.google.com/citations?hl=en&user=_Q3NTToAAAAJ)*|ACL||
+|[Learning Vision from Models Rivals Learning Vision from Data](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Learning_Vision_from_Models_Rivals_Learning_Vision_from_Data_CVPR_2024_paper.pdf)<br>*Yonglong Tian, Lijie Fan, Kaifeng Chen, Dina Katabi, Dilip Krishnan, [Phillip Isola](https://scholar.google.com/citations?hl=en&user=ROILf3EAAAAJ&view_op=list_works&sortby=pubdate)*|CVPR 2024||
 |     |     ||
 # Year 2023
 | Paper Name    | Published where | Tag |
